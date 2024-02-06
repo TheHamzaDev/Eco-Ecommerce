@@ -9,7 +9,7 @@ import star from "@/public/img/fa_star.svg";
 import { formatCurrency } from "@/utils/formatCurrency";
 import Image from "next/image";
 
-const Page = ({ params }: { params: { slug: number } }) => {
+function Page({ params }: { params: { slug: number } }) {
   const filteredItems = STORE_ITEMS.filter((item) => item.id == params.slug);
   const {
     increaseItemQuantity,
@@ -80,6 +80,6 @@ const Page = ({ params }: { params: { slug: number } }) => {
       ))}
     </>
   );
-};
+}
 
 export default Page;
