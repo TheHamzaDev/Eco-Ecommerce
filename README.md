@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is an ecommerce project created using Next.JS, TypeScript and Tailwind CSS (Daisy UI). It allows users to browse different products, add the products to a shopping cart and saves them to localStorage. Users can change the quantity of the products in cart or remove them entirely.
 
 ## Getting Started
 
