@@ -1,5 +1,7 @@
 This is an ecommerce project created using Next.JS, TypeScript and Tailwind CSS (Daisy UI). It allows users to browse different products, add the products to a shopping cart and saves them to localStorage. Users can change the quantity of the products in cart or remove them entirely.
 
+<img width="1151" alt="eco screenshot" src="https://github.com/TheHamzaDev/Eco-Ecommerce/assets/143728239/a381439b-edc6-4f65-8d6a-9a54416f4901">
+
 ## Installation
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
