@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Freckle+Face&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@layer utilities {
+  /* font */
+  .font-regular {
+    @apply font-['Roboto'] font-[400];
+  }
+  .font-medium {
+    @apply font-['Roboto'] font-[500];
+  }
+  .font-bold {
+    @apply font-['Roboto'] font-[700];
+  }
+  .font-head {
+    @apply font-['Freckle_Face'];
+  }
+  /* colors */
+  .bg-light {
+    @apply bg-[#F3F2EA];
+  }
+  .text-light {
+    @apply text-[#F3F2EA];
+  }
+  /* font size */
+  .text-12 {
+    @apply text-[12px];
+  }
+  .text-15 {
+    @apply text-[15px];
+  }
+  .text-18 {
+    @apply text-[18px];
+  }
+  .text-20 {
+    @apply text-[20px];
+  }
+  .text-22 {
+    @apply text-[22px];
+  }
+  .text-24 {
+    @apply text-[24px];
+  }
+  .text-28 {
+    @apply text-[28px];
+  }
+  .text-32 {
+    @apply text-[32px];
+  }
+  .text-40 {
+    @apply text-[40px];
+  }
+  .text-64 {
+    @apply text-[64px];
+  }
+  /* width */
+  .max-screen-width {
+    @apply max-w-[1440px] m-auto px-4 sm:px-8;
+  }
+  .max-product-width {
+    @apply max-w-[680px] m-auto px-4;
+  }
+  /* height */
+  .max-image-height {
+    @apply max-h-[640px];
+  }
+  /* Hide scrollbar for Chrome, Safari and Opera */
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .no-scrollbar {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
+}

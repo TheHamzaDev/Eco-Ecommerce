@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Oversized T-Shirt",
+    "category": "Men's",
+    "price": 60,
+    "img": "/img/SU22_ACG_BEACH_HERO_333081-9-015.jpg",
+    "rating": 4.6,
+    "reviews": 225,
+    "desc": "Designed to keep you comfortable, dry and protected on any adventure. It is made from a durable and breathable fabric that wicks away sweat and resists abrasion. It also features a UPF rating of 50+ to shield you from harmful UV rays. The t-shirt has a classic crew neck, raglan sleeves and flatlock seams to prevent chafing."
+  },
+  {
+    "id": 2,
+    "name": "Rain Jacket",
+    "category": "Women's",
+    "price": 120,
+    "img": "/img/006_nikenews-acg-su22-5-108095.jpg",
+    "rating": 4.8,
+    "reviews": 264,
+    "desc": "This durable and versatile jacket is designed to withstand rough terrains while keeping you dry and comfortable. With its waterproof and breathable fabric, adjustable fit, and reinforced construction, the Rain Jacket is the perfect choice for adventurers seeking reliable protection in any weather."
+  },
+  {
+    "id": 3,
+    "name": "Sweatproof Cap",
+    "category": "Unisex",
+    "price": 45,
+    "img": "/img/SU22_ACG_TRAIL_HERO_333081-12-031.jpg",
+    "rating" : 4.4,
+    "reviews": 198,
+    "desc": "A rugged and reliable companion for outdoor enthusiasts. Designed for rough terrains, this durable cap offers optimal protection and functionality. With a sturdy brim for sun and light rain protection, adjustable fit for comfort, and convenient pockets for essentials, the Terrain Cap is the perfect choice for hikers and adventurers seeking a reliable and compact solution."
+  },
+  {
+    "id": 4,
+    "name": "Reflective Sunglasses",
+    "category": "Unisex",
+    "price": 45,
+    "img": "/img/SU22_ACG_TRAIL_HERO_333081-97-001-041.jpg",
+    "rating" : 4.2,
+    "reviews": 296,
+    "desc": "The perfect eyewear companion for rugged outdoor adventures. These sunglasses combine style and functionality, featuring a sleek design with reflective lenses that provide optimal protection and clarity in challenging terrains. With their durable construction and impact-resistant materials, these sunglasses are built to withstand the demands of rough terrain."
+  },
+  {
+    "id": 5,
+    "name": "Terrain Hiking Pants",
+    "category": "Women's",
+    "price": 90,
+    "img": "/img/SU22_ACG_ROCK_HERO_333081-76-002-043.jpg",
+    "rating": 4.4,
+    "reviews": 179,
+    "desc": "The ultimate choice for outdoor enthusiasts seeking durability and functionality. Designed to withstand the challenges of rough terrains, these pants offer optimal protection and comfort. Elevate your hiking experience with our Terrain Hiking Pants."
+  },
+  {
+    "id": 6,
+    "name": "Terrain Shoes",
+    "category": "Men's",
+    "price": 120,
+    "img": "/img/005_nikenews-acg-su22-2-108096.jpg",
+    "rating": 4.6,
+    "reviews": 156,
+    "desc": "Built for the great outdoors and designed for hiking and rough terrains, these shoes offer durability, traction, and comfort. Elevate your hiking experience with our Terrain Shoes."
+  }
+]
