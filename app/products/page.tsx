@@ -7,9 +7,9 @@ import STORE_ITEMS from "@/data/index.json";
 import PageImage2 from "@/public/img/001_nikenews-acg-su22-1-108094.jpg";
 import PageImage1 from "@/public/img/003_nikenews-acg-su22-4-108098.jpg";
 import Image from "next/image";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
-const page = () => {
+const Page = () => {
   const [filterOption, setFilterOption] = useState<string>();
 
   const handleChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
@@ -82,4 +82,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;
