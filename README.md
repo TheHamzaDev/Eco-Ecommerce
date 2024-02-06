@@ -5,11 +5,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Step 1: Clone the repository
 ```
-git clone https://github.com/TheHamzaDev/money-track.git
+[git clone https://github.com/TheHamzaDev/money-track.git](https://github.com/TheHamzaDev/Eco-Ecommerce.git)
 ```
 ### Step 2: Navigate To Clone
 ```
-cd your_path/money-track
+cd your_path/Eco-Ecommerce
 ```
 ### Step 3: Install Dependencies
 ```
